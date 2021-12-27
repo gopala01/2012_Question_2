@@ -130,8 +130,7 @@ public class Main {
         return answer;
     }
 
-    public static int inputInt(String m)
-    {
+    public static int inputInt(String m) {
         int answer;
         Scanner scanner = new Scanner(System.in);
 
